@@ -15,6 +15,45 @@
                 href="https://murdock01.neocities.org/posts/"
                 />
   </url><url>
+    <loc>https://murdock01.neocities.org/posts/qubes_os_setup/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/posts/qubes_os_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/posts/qubes_os_setup/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/tags/qubesos/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/qubesos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/qubesos/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/tags/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/"
+                />
+  </url><url>
     <loc>https://murdock01.neocities.org/</loc>
     <lastmod>2025-10-22T10:36:59+02:00</lastmod>
     <xhtml:link
@@ -28,6 +67,19 @@
                 href="https://murdock01.neocities.org/"
                 />
   </url><url>
+    <loc>https://murdock01.neocities.org/posts/qubes_os_vorteile/</loc>
+    <lastmod>2025-10-20T11:22:07+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/posts/qubes_os_vorteile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/posts/qubes_os_vorteile/"
+                />
+  </url><url>
     <loc>https://murdock01.neocities.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,18 +90,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://murdock01.neocities.org/categories/"
-                />
-  </url><url>
-    <loc>https://murdock01.neocities.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://murdock01.neocities.org/tags/"
                 />
   </url>
 </urlset>

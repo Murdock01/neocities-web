@@ -1,6 +1,6 @@
 +++
 date = '2025-10-22T10:36:59+02:00'
-draft = true
+draft = false
 title = 'Qubes OS Setup für Java-Entwickler'
 tags = ['QubesOS']
 +++

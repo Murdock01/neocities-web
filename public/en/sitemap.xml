@@ -28,6 +28,58 @@
                 href="https://murdock01.neocities.org/en/posts/"
                 />
   </url><url>
+    <loc>https://murdock01.neocities.org/en/posts/qubes_os_setup/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/posts/qubes_os_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/posts/qubes_os_setup/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/en/tags/qubesos/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/qubesos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/qubesos/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/en/tags/</loc>
+    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/en/posts/qubes_os_vorteile/</loc>
+    <lastmod>2025-10-20T11:22:07+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/posts/qubes_os_vorteile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/posts/qubes_os_vorteile/"
+                />
+  </url><url>
     <loc>https://murdock01.neocities.org/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,18 +90,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://murdock01.neocities.org/en/categories/"
-                />
-  </url><url>
-    <loc>https://murdock01.neocities.org/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://murdock01.neocities.org/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/"
                 />
   </url>
 </urlset>
