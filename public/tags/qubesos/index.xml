@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QubesOS on Versteck der Affen-Coder</title>
+    <link>http://localhost:1313/tags/qubesos/</link>
+    <description>Recent content in QubesOS on Versteck der Affen-Coder</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 20 Oct 2025 11:22:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/qubesos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vorteile von Qubes OS</title>
+      <link>http://localhost:1313/posts/qubes_os_vorteile/</link>
+      <pubDate>Mon, 20 Oct 2025 11:22:07 +0200</pubDate>
+      <guid>http://localhost:1313/posts/qubes_os_vorteile/</guid>
+      <description>&lt;h1 id=&#34;vorteile-von-qubes-os&#34;&gt;Vorteile von Qubes OS&lt;/h1&gt;&#xA;&lt;p&gt;Qubes OS ist ein sicherheitsorientiertes Betriebssystem, das Virtualisierung nutzt, um eine starke Isolierung zwischen verschiedenen Aufgaben und Anwendungen zu gewährleisten. Im Folgenden sind die wichtigsten Vorteile aufgeführt, die Qubes OS zu einer überzeugenden Wahl für sicherheits- und datenschutzbewusste Nutzer machen.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-sicherheit-durch-kompartimentierung&#34;&gt;1. Sicherheit durch Kompartimentierung&lt;/h2&gt;&#xA;&lt;p&gt;Qubes OS verwendet Xen-basierte Virtualisierung, um Anwendungen in separate virtuelle Maschinen, sogenannte „Qubes“, zu isolieren. Jeder Qube arbeitet unabhängig, sodass ein Kompromittieren eines Qubes keine Auswirkungen auf andere hat. Diese Architektur reduziert die Angriffsfläche erheblich.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+baseURL = 'https://murdock01.neocities.org/'
+languageCode = 'de'
+title = 'Coder Monkey´s Hideout'
+theme = "rusty-typewriter"
+
+# German is the default language
+defaultContentLanguage = "de"
+# Force to have /en/my-page and /fr/my-page routes, even for default language.
+defaultContentLanguageInSubdir= false
+
+[Languages]
+[Languages.de]
+title = "Versteck der Affen-Coder"
+weight = 1
+languageName = "German"
+
+[Languages.en]
+title = "Monkey Coder's Hideout"
+weight = 2
+languageName = "English"
+
+[params.rtwt]
+  sidePane = true
+  countPageItems = 7
+
+[params.rtwt.home]
+  showBio = true
+  showAuthorImg = true
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5

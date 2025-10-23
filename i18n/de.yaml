@@ -1,0 +1,34 @@
+# Root
+theme_light: Helles Thema
+theme_dark: Dunkles Thema
+
+# Not found (404)
+not_found_title: Upps, Seite nicht gefunden!
+not_found_desc: Nicht alle, die wandern, sind verloren, aber hier gibt es nichts mehr zu erforschen
+not_found_home_link: Zurück auf Anfang
+
+# Footer
+scroll_top: Nach oben scrollen
+footer: Mit ❤️ erstellt und unterstützt von {{ .ThemeAnchor }} Thema für {{ .HugoAnchor }}
+
+# Home
+featured_posts: Beliebte Beiträge
+recent_posts: Neueste Beiträge
+#
+# Search
+js_required: Es ist notwendig, Javascript zu aktivieren
+search_loading: Laden...
+search_placeholder: Suche...
+
+# SidePane for home
+see_all: Zeige alles...
+
+# Page
+breadcrumb_home: Anfang
+
+# SidePane for single pages
+details_words: Wörter
+details_read_time: Minuten gelesen
+side_table_of_contents: Inhalt
+side_attachments: Anhänge
+side_related: Verwandt

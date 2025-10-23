@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QubesOS on Monkey Coder&#39;s Hideout</title>
+    <link>http://localhost:1313/en/tags/qubesos/</link>
+    <description>Recent content in QubesOS on Monkey Coder&#39;s Hideout</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Oct 2025 11:22:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/qubesos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benefits of Using Qubes OS</title>
+      <link>http://localhost:1313/en/posts/qubes_os_vorteile/</link>
+      <pubDate>Mon, 20 Oct 2025 11:22:07 +0200</pubDate>
+      <guid>http://localhost:1313/en/posts/qubes_os_vorteile/</guid>
+      <description>&lt;h1 id=&#34;benefits-of-using-qubes-os&#34;&gt;Benefits of Using Qubes OS&lt;/h1&gt;&#xA;&lt;p&gt;Qubes OS is a security-focused operating system that leverages virtualization to provide strong isolation between different tasks and applications. Below are the key benefits that make Qubes OS a compelling choice for users who prioritize security and privacy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-security-through-compartmentalization&#34;&gt;1. Security Through Compartmentalization&lt;/h2&gt;&#xA;&lt;p&gt;Qubes OS uses Xen-based virtualization to isolate applications into separate virtual machines called &amp;ldquo;qubes.&amp;rdquo; Each qube operates independently, so a compromise in one does not affect others. This architecture significantly reduces the attack surface.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

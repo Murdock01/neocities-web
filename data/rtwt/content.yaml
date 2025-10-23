@@ -1,0 +1,12 @@
+home:
+  image: 'images/monkey_coder.jpg'
+  greetings: 'Hallihallo!'
+  text: 'The definitive, configurable, customizable, old fashioned rusty coloured theme for web writers and readers.'
+side:
+  home:
+    - content: 'Oh, and did I mention it has support for static side pane content? Cool, right?'
+    - title: 'Media Support'
+      content: 'Side content can have images!'
+      imagePath: 'images/hugo-logo-wide.svg'
+      imageHref: 'https://gohugo.io'
+      imageWidth: '100%'
