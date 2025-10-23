@@ -1,0 +1,12 @@
+home:
+  image: 'images/monkey_coder.jpg'
+  greetings: 'Welcome!'
+  text: 'My Code Monkey Hideout. Currently under heavy processing'
+side:
+  home:
+    - content: 'Oh, and did I mention it has support for static side pane content? Cool, right?'
+    - title: 'Media Support'
+      content: 'Side content can have images!'
+      imagePath: 'images/hugo-logo-wide.svg'
+      imageHref: 'https://gohugo.io'
+      imageWidth: '100%'
