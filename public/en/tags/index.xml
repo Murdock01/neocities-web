@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Monkey Coder&#39;s Hideout</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://murdock01.neocities.org/en/tags/</link>
     <description>Recent content in Tags on Monkey Coder&#39;s Hideout</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 24 Oct 2025 15:13:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://murdock01.neocities.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT-Security</title>
-      <link>http://localhost:1313/en/tags/it-security/</link>
+      <link>https://murdock01.neocities.org/en/tags/it-security/</link>
       <pubDate>Fri, 24 Oct 2025 15:13:02 +0200</pubDate>
-      <guid>http://localhost:1313/en/tags/it-security/</guid>
+      <guid>https://murdock01.neocities.org/en/tags/it-security/</guid>
       <description></description>
     </item>
     <item>
       <title>QubesOS</title>
-      <link>http://localhost:1313/en/tags/qubesos/</link>
+      <link>https://murdock01.neocities.org/en/tags/qubesos/</link>
       <pubDate>Wed, 22 Oct 2025 10:36:59 +0200</pubDate>
-      <guid>http://localhost:1313/en/tags/qubesos/</guid>
+      <guid>https://murdock01.neocities.org/en/tags/qubesos/</guid>
       <description></description>
     </item>
   </channel>

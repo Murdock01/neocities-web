@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Versteck der Affen-Coder</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://murdock01.neocities.org/tags/</link>
     <description>Recent content in Tags on Versteck der Affen-Coder</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Fri, 24 Oct 2025 15:13:02 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://murdock01.neocities.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT-Security</title>
-      <link>http://localhost:1313/tags/it-security/</link>
+      <link>https://murdock01.neocities.org/tags/it-security/</link>
       <pubDate>Fri, 24 Oct 2025 15:13:02 +0200</pubDate>
-      <guid>http://localhost:1313/tags/it-security/</guid>
+      <guid>https://murdock01.neocities.org/tags/it-security/</guid>
       <description></description>
     </item>
     <item>
       <title>QubesOS</title>
-      <link>http://localhost:1313/tags/qubesos/</link>
+      <link>https://murdock01.neocities.org/tags/qubesos/</link>
       <pubDate>Wed, 22 Oct 2025 10:36:59 +0200</pubDate>
-      <guid>http://localhost:1313/tags/qubesos/</guid>
+      <guid>https://murdock01.neocities.org/tags/qubesos/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 +++
 date = '2025-10-24T15:13:02+02:00'
-draft = false
+draft = 'false'
 title = 'Glassworm'
 tags = ['IT-Security']
 +++
