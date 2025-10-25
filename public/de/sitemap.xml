@@ -2,120 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://murdock01.neocities.org/posts/glassworm/</loc>
+    <loc>http://localhost:1313/posts/glassworm/</loc>
     <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/posts/glassworm/"
+                href="http://localhost:1313/en/posts/glassworm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/posts/glassworm/"
+                href="http://localhost:1313/posts/glassworm/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/tags/it-security/</loc>
+    <loc>http://localhost:1313/tags/it-security/</loc>
     <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/it-security/"
+                href="http://localhost:1313/en/tags/it-security/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/tags/it-security/"
+                href="http://localhost:1313/tags/it-security/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/posts/"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/posts/qubes_os_setup/</loc>
+    <loc>http://localhost:1313/posts/qubes_os_setup/</loc>
     <lastmod>2025-10-22T10:36:59+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/posts/qubes_os_setup/"
+                href="http://localhost:1313/en/posts/qubes_os_setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/posts/qubes_os_setup/"
+                href="http://localhost:1313/posts/qubes_os_setup/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/tags/qubesos/</loc>
+    <loc>http://localhost:1313/tags/qubesos/</loc>
     <lastmod>2025-10-22T10:36:59+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/qubesos/"
+                href="http://localhost:1313/en/tags/qubesos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/tags/qubesos/"
+                href="http://localhost:1313/tags/qubesos/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/posts/qubes_os_vorteile/</loc>
+    <loc>http://localhost:1313/posts/qubes_os_vorteile/</loc>
     <lastmod>2025-10-20T11:22:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/posts/qubes_os_vorteile/"
+                href="http://localhost:1313/en/posts/qubes_os_vorteile/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/posts/qubes_os_vorteile/"
+                href="http://localhost:1313/posts/qubes_os_vorteile/"
                 />
   </url><url>
-    <loc>https://murdock01.neocities.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://murdock01.neocities.org/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://murdock01.neocities.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url>
 </urlset>

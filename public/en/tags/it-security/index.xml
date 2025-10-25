@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT-Security on Monkey Coder&#39;s Hideout</title>
-    <link>https://murdock01.neocities.org/en/tags/it-security/</link>
+    <link>http://localhost:1313/en/tags/it-security/</link>
     <description>Recent content in IT-Security on Monkey Coder&#39;s Hideout</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 24 Oct 2025 15:13:02 +0200</lastBuildDate>
-    <atom:link href="https://murdock01.neocities.org/en/tags/it-security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/it-security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glassworm</title>
-      <link>https://murdock01.neocities.org/en/posts/glassworm/</link>
+      <link>http://localhost:1313/en/posts/glassworm/</link>
       <pubDate>Fri, 24 Oct 2025 15:13:02 +0200</pubDate>
-      <guid>https://murdock01.neocities.org/en/posts/glassworm/</guid>
+      <guid>http://localhost:1313/en/posts/glassworm/</guid>
       <description>&lt;h1 id=&#34;glassworm--a-new-earthquake-in-the-it-landscape&#34;&gt;Glassworm – A New Earthquake in the IT Landscape?&lt;/h1&gt;&#xA;&lt;h3 id=&#34;a-new-piece-of-malware-has-been-spreading-through-the-developer-community-in-recent-days-the-discoverers-the-israeli-american-cybersecurity-firm-koi-have-named-it-glassworm--a-nod-to-its-ability-to-hide-using-invisible-code&#34;&gt;A new piece of malware has been spreading through the developer community in recent days. The discoverers, the Israeli-American cybersecurity firm KOI, have named it “Glassworm” — a nod to its ability to hide using &lt;em&gt;&lt;strong&gt;invisible code&lt;/strong&gt;&lt;/em&gt;.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace&#34;&gt;https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The malware known as &lt;em&gt;Glassworm&lt;/em&gt; is not just a simple worm — it represents one of the most advanced software supply chain attacks ever seen.&lt;br&gt;&#xA;It spreads via extensions for the widely used code editor VS Code and its derivatives (such as VS Codium).&lt;br&gt;&#xA;Glassworm employs a mix of advanced techniques that, in combination, are unprecedented in malware.&lt;/p&gt;</description>
     </item>
   </channel>

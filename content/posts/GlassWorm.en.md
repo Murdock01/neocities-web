@@ -1,9 +1,10 @@
 +++
 date = '2025-10-24T15:13:02+02:00'
-draft = 'false'
-title = 'Glassworm'
+draft = false
+title = 'Glassworm Malware'
 tags = ['IT-Security']
 +++
+
 # Glassworm – A New Earthquake in the IT Landscape?
 ### A new piece of malware has been spreading through the developer community in recent days. The discoverers, the Israeli-American cybersecurity firm KOI, have named it “Glassworm” — a nod to its ability to hide using ***invisible code***.  
 https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace

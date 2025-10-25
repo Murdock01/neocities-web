@@ -1,9 +1,10 @@
 +++
 date = '2025-10-24T15:13:02+02:00'
-draft = 'false'
-title = 'GlassWorm'
+draft = false
+title = 'GlassWorm Schadcode'
 tags = ['IT-Security']
 +++
+
 # Glassworm - ein neues Erdbeben in der IT-Landschaft?
 ### Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie "Glassworm" getauft, als Anspielung auf die Eigenschaft, sich durch ***unsichtbaren Code*** zu verstecken.
 https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace
