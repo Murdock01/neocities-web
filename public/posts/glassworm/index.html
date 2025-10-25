@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>GlassWorm Schadcode | Versteck der Affen-Coder</title>
+<link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml" /><meta property="og:url" content="http://localhost:1313/posts/glassworm/">
+  <meta property="og:site_name" content="Versteck der Affen-Coder">
+  <meta property="og:title" content="GlassWorm Schadcode">
+  <meta property="og:description" content="Glassworm - ein neues Erdbeben in der IT-Landschaft? Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie “Glassworm” getauft, als Anspielung auf die Eigenschaft, sich durch unsichtbaren Code zu verstecken. https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace
+Die Glassworm getaufte Malware ist nicht nur ein einfacher Wurm, sondern einer der fortschrittlichsten Angriffe auf die Software-Lieferkette, den es je gab. Er verbreitet sich über Erweiterungen des, unter Entwicklern sehr weit verbreiteten, Codeeditors VS-Code und dessen Abkömmlingen (wie VS Codium). Die Malware nutzt dabei ein Mix fortschrittlicher Techniken, die in dieser Kombination bei Malware neu ist.">
+  <meta property="og:locale" content="de">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-10-24T15:13:02+02:00">
+    <meta property="article:modified_time" content="2025-10-24T15:13:02+02:00">
+    <meta property="article:tag" content="IT-Security">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="GlassWorm Schadcode">
+  <meta name="twitter:description" content="Glassworm - ein neues Erdbeben in der IT-Landschaft? Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie “Glassworm” getauft, als Anspielung auf die Eigenschaft, sich durch unsichtbaren Code zu verstecken. https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace
+Die Glassworm getaufte Malware ist nicht nur ein einfacher Wurm, sondern einer der fortschrittlichsten Angriffe auf die Software-Lieferkette, den es je gab. Er verbreitet sich über Erweiterungen des, unter Entwicklern sehr weit verbreiteten, Codeeditors VS-Code und dessen Abkömmlingen (wie VS Codium). Die Malware nutzt dabei ein Mix fortschrittlicher Techniken, die in dieser Kombination bei Malware neu ist.">
+
+    <link rel="stylesheet" href="/css/root.css">
+    <link rel="stylesheet" href="/css/bundle.css">
+
+      <script src="/js/bundle.js"></script><script defer src="/js/search/flexsearch.compact.5e0de3b335e5c523c7cf45473dc43fccb6c75f64a9d59cc04a6eccbb7c25eb49.js" integrity="sha256-Xg3jszXlxSPHz0VHPcQ/zLbHX2Sp1ZzASm7Mu3wl60k="></script>
+<script defer src="/js/search/search.1d980f84df11f3eb7c8c5f17f541d49a0611608df179dd74fa7f06225eb56ace.js" integrity="sha256-HZgPhN8R8&#43;t8jF8X9UHUmgYRYI3xed10&#43;n8GIl61as4="></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+
+</head>
+<body class="notransition">
+  <div id="container">
+    <header id="main-header"><div role="navigation" aria-label="Main">
+  <div class="nav-left">
+    <a href="http://localhost:1313/" style="color: inherit;">Versteck der Affen-Coder</a>
+  </div>
+  <div class="nav-right">
+    <div style="position:absolute;width:0px;height:0px;">
+      <div id="nav-dropdown-menu" class="hidden" href="#">
+    <div class="nav-item">
+      <a aria-current="true" class="ancestor" href="/posts/"
+      >Posts</a>
+    </div>
+</div>
+    </div>
+    <a id="nav-dropdown-button" href="#"><svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 6H20M4 12H20M4 18H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+</a>
+    <div id="nav-menu">
+    <div class="nav-item">
+      <a aria-current="true" class="ancestor" href="/posts/"
+      >Posts</a>
+    </div>
+</div>
+    <a id="theme-switcher" href="#">
+<svg class="light-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 3V4M12 20V21M4 12H3M6.31412 6.31412L5.5 5.5M17.6859 6.31412L18.5 5.5M6.31412 17.69L5.5 18.5001M17.6859 17.69L18.5 18.5001M21 12H20M16 12C16 14.2091 14.2091 16 12 16C9.79086 16 8 14.2091 8 12C8 9.79086 9.79086 8 12 8C14.2091 8 16 9.79086 16 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+<svg class="dark-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.32031 11.6835C3.32031 16.6541 7.34975 20.6835 12.3203 20.6835C16.1075 20.6835 19.3483 18.3443 20.6768 15.032C19.6402 15.4486 18.5059 15.6834 17.3203 15.6834C12.3497 15.6834 8.32031 11.654 8.32031 6.68342C8.32031 5.50338 8.55165 4.36259 8.96453 3.32996C5.65605 4.66028 3.32031 7.89912 3.32031 11.6835Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+</a>
+  </div>
+</div>
+</header>
+    <div class="flex grow">
+      <div id="main-pane">
+        <main id="main-content"><div class="single-header">
+<ol class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="http://localhost:1313/">
+        <span itemprop="name">Anfang</span>
+      </a>
+      <meta itemprop="position" content='1' />
+    </li>
+    <span>&nbsp»&nbsp</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="http://localhost:1313/posts/">
+        <span itemprop="name">Posts</span>
+      </a>
+      <meta itemprop="position" content='2' />
+    </li>
+    <span>&nbsp»&nbsp</span>
+</ol>
+<h1>GlassWorm Schadcode</h1><time class="dim" datetime="2025-10-24T15:13:02&#43;02:00">24. Oktober 2025</time><div class="term-container"><div class="tag">
+        <a href="http://localhost:1313/tags/it-security/">#IT-Security</a>
+      </div></ol></div>
+  <section class="page-section"><h1 id="glassworm---ein-neues-erdbeben-in-der-it-landschaft">Glassworm - ein neues Erdbeben in der IT-Landschaft?</h1>
+<h3 id="seit-ein-paar-tagen-frisst-sich-eine-neue-schadsoftware-durch-die-gemeinde-der-softwareentwickler-die-entdecker-das-israelisch-amerikanische-sw-sicherheitsunternehmen-koi-haben-sie-glassworm-getauft-als-anspielung-auf-die-eigenschaft-sich-durch-unsichtbaren-code-zu-verstecken">Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie &ldquo;Glassworm&rdquo; getauft, als Anspielung auf die Eigenschaft, sich durch <em><strong>unsichtbaren Code</strong></em> zu verstecken.</h3>
+<p><a href="https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace">https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace</a></p>
+<p>Die <em>Glassworm</em> getaufte Malware ist nicht nur ein einfacher Wurm, sondern einer der fortschrittlichsten Angriffe auf die Software-Lieferkette, den es je gab.
+Er verbreitet sich über Erweiterungen des, unter Entwicklern sehr weit verbreiteten, Codeeditors VS-Code und dessen Abkömmlingen (wie VS Codium).
+Die Malware nutzt dabei ein Mix fortschrittlicher Techniken, die in dieser Kombination bei Malware neu ist.</p>
+<ul>
+<li>
+<p>Nicht sichtbarer Code in den betroffenen Extensions durch Benutzung nicht darstellbarer Unicode-Zeichen. Diese erschweren manuelle Code Reviews und machen ihn damit praktisch <em>unsichtbar</em>. Dazu benutzt der Wurm <a href="https://de.wikipedia.org/wiki/Unicodeblock_Variantenselektoren">Unicodeblock-Variantenselektoren</a>.
+&ldquo;Diese Technik bricht die traditionelle Codeüberprüfung komplett&rdquo;, sagte Idan Dardikman, Forscher bei KOI Security. &ldquo;Man kann nicht erkennen, was man nicht sieht.&rdquo;</p>
+</li>
+<li>
+<p>Nachlade-Mechanismus, basierend auf Transaktionen in der Solana-Blockchain. Diese Transaktionen können, einmal in der Blockchain aufgenommen, nicht wieder gelöscht werden, sind also solange vorhanden, solange es die Blockchain gibt. In dieser Transaktion befindet sich der Verweis auf den C&amp;C-Server mit dem Payload der nächsten Stufe. Wird dieser gesperrt oder beschlagnahmt, wird von den Malware-Betreibern einfach eine neue Transakktion mit einem Verweis auf einen anderen Server erzeugt, die Malware sucht stets nach der aktuellsten Transaktion.</p>
+</li>
+<li>
+<p>Eine Solana-Transaktion ist extrem billig, es fallen Transaktionskosten zwischen 0.0001 und 0.0025 USD an.</p>
+</li>
+<li>
+<p>Als Backup fungieren zusätzlich Google-Kalender-Einträge, die sich ohne kompletten Verzicht auf die Kalenderfunktion selbst in Firmennetzwerken nicht erfolgreich blockieren lassen.</p>
+</li>
+<li>
+<p>Vom C&amp;C-Server wird dann der eigentliche, mit AES-CBC-256 verschlüsselte, Payload heruntergeladen und installiert.
+Dieser hat wiederum mehrere fortgeschrittene Funktionen.</p>
+<ul>
+<li>Er sammelt NPM-, GitHub- und OpenVSX-Anmeldeinformationen</li>
+<li>greift Browser-Wallet-Erweiterungen an (49 Wallet-Typen werden genannt)</li>
+<li>richtet SOCKS-Proxies ein</li>
+<li>installiert versteckte VNC-Dienste für Remotezugriff</li>
+<li>nutzt Peer-to-peer-Mechanismen wie WebRTC und BitTorrent-DHT zur dezentralen Befehlsverteilung.</li>
+</ul>
+</li>
+<li>
+<p>In der letzten, von den Entdeckern und den Malware-Autoren ironischerweise &ldquo;ZOMBI&rdquo; genannten Stufe, verwandelt GlassWorm Entwicklerrechner in persistente, schwer detektierbare Infrastrukturknoten, über die Angreifer interne Netze ansteuern oder Transaktionen anonymisieren können.</p>
+</li>
+</ul>
+<h2 id="automatisierte-verbreitung">Automatisierte Verbreitung</h2>
+<p>Die Malware sucht auf den infizierten Systemen nach Credentials für verschiedene Entwickler-Plattformen und benutzt npm-Auth-Token, um sich über den Javascript-Paketmanager weiterzuverbreiten. Ausserdem sucht sie nach Github-Token und Git-Credentials, um weitere Repositories zu kompromittieren. Auch nach Zugangsdaten zu Open-VSX wird gesucht, um weitere VS Code-Erweiterungen zu infizieren.</p>
+<p>Der <a href="https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace">Beitrag auf der KOI Webseite</a> listet im Anhang die bisher bekannten, befallenen Erweiterungen auf. Diese Liste beinhaltet derzeit zwar eher obskure Extensions, es ist aber nur eine Frage der Zeit, bis Glassworm populärere Pakete befällt.</p>
+<p>Gleichzeitig zeigt der Supply-Chain-Angriff erstmals deutlich, welche Möglichkeiten bestehen, mittels legitimer dezentraler Dienste eine C&amp;C-Infrastruktur zu bauen, die sich nicht einfach abschalten lässt.</p>
+<p>Der Angriff hat das Zeug dazu, die Schlagkraft und Reichweite anderer bekannter Attacken wie z.B. Shai Hulud nochmals deutlich zu übertreffen.
+Die Entwicklergemeinde und die Betreiber von Software Marktplätzen und Code Repositories sind nun gefragt, wirksame Gegenmittel gegen solcherart Angriffe zu finden, wie z.B 2FA, granulare Access-Token für Repositories und &ldquo;Trusted Publishing&rdquo;.</p>
+<p>Die Lage bleibt ausgesprochen spannend.</p>
+</section></main>
+        <footer id="main-footer"><div class="footer">
+  <a href="#">Nach oben scrollen</a>
+  <div class="footer-copyright">
+    <div class="dim">© 2025 </div>
+    <div>Mit ❤️ erstellt und unterstützt von <a href="https://github.com/math-queiroz/rusty-typewriter" target="_blank">Rusty Typewriter</a> Thema für <a href="https://gohugo.io/" target="_blank">Hugo</a></div>
+  </div>
+</div>
+</footer>
+      </div><aside id="side-pane" class="side-sticky"><div class="side-details">
+    <span>502 Wörter</span>
+    <span>4 - 5 Minuten gelesen</span></div><h3>Inhalt</h3><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#seit-ein-paar-tagen-frisst-sich-eine-neue-schadsoftware-durch-die-gemeinde-der-softwareentwickler-die-entdecker-das-israelisch-amerikanische-sw-sicherheitsunternehmen-koi-haben-sie-glassworm-getauft-als-anspielung-auf-die-eigenschaft-sich-durch-unsichtbaren-code-zu-verstecken">Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie “Glassworm” getauft, als Anspielung auf die Eigenschaft, sich durch <em><strong>unsichtbaren Code</strong></em> zu verstecken.</a></li>
+      </ul>
+    </li>
+    <li><a href="#automatisierte-verbreitung">Automatisierte Verbreitung</a></li>
+  </ul>
+</nav></aside></div>
+  </div>
+</body>
+</html>
