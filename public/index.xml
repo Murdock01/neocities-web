@@ -6,8 +6,15 @@
     <description>Recent content on Versteck der Affen-Coder</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Oct 2025 10:36:59 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 15:13:02 +0200</lastBuildDate>
     <atom:link href="https://murdock01.neocities.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GlassWorm</title>
+      <link>https://murdock01.neocities.org/posts/glassworm/</link>
+      <pubDate>Fri, 24 Oct 2025 15:13:02 +0200</pubDate>
+      <guid>https://murdock01.neocities.org/posts/glassworm/</guid>
+      <description>&lt;h1 id=&#34;glassworm---ein-neues-erdbeben-in-der-it-landschaft&#34;&gt;Glassworm - ein neues Erdbeben in der IT-Landschaft?&lt;/h1&gt;&#xA;&lt;h3 id=&#34;seit-ein-paar-tagen-frisst-sich-eine-neue-schadsoftware-durch-die-gemeinde-der-softwareentwickler-die-entdecker-das-israelisch-amerikanische-sw-sicherheitsunternehmen-koi-haben-sie-glassworm-getauft-als-anspielung-auf-die-eigenschaft-sich-durch-unsichtbaren-code-zu-verstecken&#34;&gt;Seit ein paar Tagen frisst sich eine neue Schadsoftware durch die Gemeinde der Softwareentwickler. Die Entdecker, das israelisch-amerikanische SW-Sicherheitsunternehmen KOI, haben sie &amp;ldquo;Glassworm&amp;rdquo; getauft, als Anspielung auf die Eigenschaft, sich durch &lt;em&gt;&lt;strong&gt;unsichtbaren Code&lt;/strong&gt;&lt;/em&gt; zu verstecken.&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace&#34;&gt;https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Die &lt;em&gt;Glassworm&lt;/em&gt; getaufte Malware ist nicht nur ein einfacher Wurm, sondern einer der fortschrittlichsten Angriffe auf die Software-Lieferkette, den es je gab.&#xA;Er verbreitet sich über Erweiterungen des, unter Entwicklern sehr weit verbreiteten, Codeeditors VS-Code und dessen Abkömmlingen (wie VS Codium).&#xA;Die Malware nutzt dabei ein Mix fortschrittlicher Techniken, die in dieser Kombination bei Malware neu ist.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Qubes OS Setup für Java-Entwickler</title>
       <link>https://murdock01.neocities.org/posts/qubes_os_setup/</link>

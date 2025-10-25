@@ -2,8 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://murdock01.neocities.org/posts/glassworm/</loc>
+    <lastmod>2025-10-24T15:13:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/posts/glassworm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/posts/glassworm/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/tags/it-security/</loc>
+    <lastmod>2025-10-24T15:13:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/it-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/it-security/"
+                />
+  </url><url>
     <loc>https://murdock01.neocities.org/posts/</loc>
-    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
+    <lastmod>2025-10-24T15:13:02+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +39,32 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://murdock01.neocities.org/posts/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/tags/</loc>
+    <lastmod>2025-10-24T15:13:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/tags/"
+                />
+  </url><url>
+    <loc>https://murdock01.neocities.org/</loc>
+    <lastmod>2025-10-24T15:13:02+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://murdock01.neocities.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://murdock01.neocities.org/"
                 />
   </url><url>
     <loc>https://murdock01.neocities.org/posts/qubes_os_setup/</loc>
@@ -39,32 +91,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://murdock01.neocities.org/tags/qubesos/"
-                />
-  </url><url>
-    <loc>https://murdock01.neocities.org/tags/</loc>
-    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://murdock01.neocities.org/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://murdock01.neocities.org/tags/"
-                />
-  </url><url>
-    <loc>https://murdock01.neocities.org/</loc>
-    <lastmod>2025-10-22T10:36:59+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://murdock01.neocities.org/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://murdock01.neocities.org/"
                 />
   </url><url>
     <loc>https://murdock01.neocities.org/posts/qubes_os_vorteile/</loc>
